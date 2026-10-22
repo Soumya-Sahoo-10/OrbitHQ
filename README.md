@@ -8,7 +8,8 @@ OrbitHQ is a multi-tenant project management platform designed around organizati
 
 - **Live Application:** https://orbit-hq-two.vercel.app/
 - **Backend API:** https://orbithq-backend.onrender.com/
-- **Source Code:** https://github.com/ayush-kumar-yadav/OrbitHQ
+
+
 
 > The current deployment represents the Phase-0 MVP. The platform is intentionally focused on a working, deployable core rather than a complete Jira/Asana replacement.
 
