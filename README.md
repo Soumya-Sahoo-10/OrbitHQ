@@ -468,9 +468,8 @@ This project is currently maintained as a personal portfolio/project implementat
 
 ## 👤 Author
 
-**Ayush Kumar Yadav**
+**Soumya Swarup Sahoo**
 
-GitHub: https://github.com/ayush-kumar-yadav
 
 ---
 
